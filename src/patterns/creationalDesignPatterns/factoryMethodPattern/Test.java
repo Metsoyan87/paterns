@@ -1,4 +1,4 @@
-package paterns.creationalDesignPatterns.factoryMethodPattern;
+package patterns.creationalDesignPatterns.factoryMethodPattern;
 
 //Фабричный метод — это порождающий шаблон проектирования в Java,
 // который предоставляет интерфейс для создания объектов в суперклассе, но позволяет подклассам изменять тип создаваемых объектов.

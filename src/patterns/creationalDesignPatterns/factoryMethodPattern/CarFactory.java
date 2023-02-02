@@ -1,7 +1,4 @@
-package paterns.creationalDesignPatterns.factoryMethodPattern;
-
-
-
+package patterns.creationalDesignPatterns.factoryMethodPattern;
 
 public class CarFactory {
     public static Car createCar(String carType) {

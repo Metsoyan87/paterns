@@ -1,4 +1,6 @@
-package paterns.creationalDesignPatterns.factoryMethodPattern;
+package patterns.creationalDesignPatterns.factoryMethodPattern;
+
+import patterns.creationalDesignPatterns.factoryMethodPattern.Car;
 
 public class Sedan implements Car {
     @Override
